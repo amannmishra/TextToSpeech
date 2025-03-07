@@ -1,4 +1,10 @@
 # TextToSpeech
+## Contact
+
+Feel free to reach out with any questions or feedback:
+- **Instagram**: (https://www.instagram.com/amanmishra7919/)
+- **Email**: (mailto:amanmishra3496@gmail.com)
+- **GitHub**: (https://github.com/amannmishra)
 
 **TextToSpeech** is a Python-based project that converts text input into speech using different speech synthesis engines. This project aims to provide a simple, flexible, and easy-to-use solution for text-to-speech conversion.
 
